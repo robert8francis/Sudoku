@@ -1,5 +1,4 @@
 #Sudoku Generator Algorithm - www.101computing.net/sudoku-generator-algorithm/
-import turtle
 from random import randint, shuffle
 from time import sleep
 
